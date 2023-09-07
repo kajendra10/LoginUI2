@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Login UI Design 2</string>
+    <string name="log_text">LOGIN</string>
+    <string name="eu_text">Email or Username</string>
+    <string name="p_text">Password</string>
+    <string name="ft_text">Forgot Password?</string>
+    <string name="ac_text">Already have an account?</string>
+    <string name="s_text">Signup</string>
+</resources>
